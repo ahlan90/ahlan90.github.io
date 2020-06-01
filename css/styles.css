@@ -10259,3 +10259,24 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
+
+.img-tech {
+  height: 239px;
+}
+
+.background-django {
+  background-color: #103E2E;
+}
+
+.background-angular {
+  background-color: #2F84D7;
+}
+
+.background-react {
+  background-color: #2A2C2E;
+}
+
+#logo-django {
+  font-size: 45px;
+  font-weight: 900;
+}
